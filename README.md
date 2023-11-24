@@ -18,6 +18,7 @@ Core idea of the project:
 To create a comprehensive and informative website for Dr. D. Y. Patil Arts, Commerce & Science College Pune, providing potential students, parents, and faculty with easy access to information about the college.
 Problem being solved:
 The current college website is outdated and difficult to navigate, making it challenging for users to find the information they need.
+
 Solution:
 Develop a new website with a modern design and user-friendly interface that is easy to navigate and provides clear and concise information about the college, its programs, faculty, and student life.
 How the project addresses a clear need, problem, or opportunity:
@@ -27,8 +28,8 @@ Yes, the project's purpose and basic functionality are clearly mapped to the pro
 
 I am also planning to use the following services:
 
-Azure Cognitive Services: This service will allow me to add cognitive capabilities to my applications, such as natural language processing, computer vision, and speech recognition.
-Azure Bot Service: This service will allow me to create chatbots and other interactive applications.
-Azure Machine Learning: This service will allow me to train and deploy machine learning models.
-Azure Data Lake Storage: This service will allow me to store and manage large amounts of data.
-Azure Synapse Analytics: This service will allow me to analyze large datasets.
+1)Azure Cognitive Services: This service will allow me to add cognitive capabilities to my applications, such as natural language processing, computer vision, and speech recognition.
+2)Azure Bot Service: This service will allow me to create chatbots and other interactive applications.
+3)Azure Machine Learning: This service will allow me to train and deploy machine learning models.
+4)Azure Data Lake Storage: This service will allow me to store and manage large amounts of data.
+5)Azure Synapse Analytics: This service will allow me to analyze large datasets.
