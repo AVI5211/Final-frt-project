@@ -1,6 +1,5 @@
 This is 
 final project 
-Azure link https://calm-stone-065414810.4.azurestaticapps.net/
 Same Link https://dyacs.netlify.app/
 
 The current Dr. D. Y. Patil Arts, Commerce & Science College Pune website is outdated and difficult to navigate, making it challenging for users to find the information they need. This can lead to a number of problems, including:
